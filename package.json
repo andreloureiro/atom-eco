@@ -1,6 +1,6 @@
 {
   "name": "atom-eco",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Package for syntax highlighting Eco (Embedded Coffeescript) templates in Atom Editor.",
   "repository": "https://github.com/andreloureiro/atom-eco",
   "license": "MIT",
